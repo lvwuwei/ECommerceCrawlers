@@ -119,5 +119,6 @@ if __name__ == '__main__':
         print(e)
         article_url_list = []
         time.sleep(1)
+        while True:
         continue
 
